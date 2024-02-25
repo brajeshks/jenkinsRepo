@@ -20,4 +20,10 @@ public class Class2Test {
 	    public void method6() {
 			System.out.println("method 6  is executing");
 		}
+	    
+	    @Test
+	    public void method7() {
+			System.out.println("method 7  is executing");
+		}
+	    
 }
