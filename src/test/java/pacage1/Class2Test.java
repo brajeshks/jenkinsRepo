@@ -26,4 +26,10 @@ public class Class2Test {
 			System.out.println("method 7  is executing");
 		}
 	    
+	    
+	    @Test
+	    public void method8() {
+			System.out.println("method 8  is executing");
+		}
+	    
 }
